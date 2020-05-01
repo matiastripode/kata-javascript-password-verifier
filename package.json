@@ -1,0 +1,11 @@
+{
+  "name": "kata-tdd-password-verifier",
+  "version": "1.0.0",
+  "description": "TDD Kata Password Verifier",
+  "main": "kata_js_password_verifier.test.js",
+  "author": "Matias Tripode",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.5.3"
+  }
+}
